@@ -2,8 +2,6 @@
 
 
 /*
-4.Заменить картинку на яркую светлую в Саммерсете
-10.Добавление ссылок
 11.Адаптивность на 1440/650/телефон
 14.Залить в Гит*/
 
@@ -15,7 +13,7 @@ body {
     font-weight: 550;
     margin: auto;
     max-width: 1440px;
-    background-image: url('/img/bgpattern.svg');
+    background-image: url('/img/bgpattern.SVG');
 }
 
 .navbar ul {
@@ -63,7 +61,7 @@ a {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('/img/Elsweyropacity85.png');
+    background-image: url('/img/Elsweyropacity85.PNG');
     background-size: cover;
 }
 
@@ -89,7 +87,7 @@ p {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('/img/achivmetn80.png');
+    background-image: url('/img/achivmetn80.PNG');
     background-size: cover;
 }
 
