@@ -1,10 +1,5 @@
 /*Made by AG*/
 
-
-/*
-11.Адаптивность на 1440/650/телефон
-14.Залить в Гит*/
-
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Mulish&display=swap');
 body {
     font-family: 'Mulish', sans-serif;
@@ -13,7 +8,7 @@ body {
     font-weight: 550;
     margin: auto;
     max-width: 1440px;
-    background-image: url('/img/bgpattern.SVG');
+    background-image: url('/image/bgpattern.svg');
 }
 
 .navbar ul {
@@ -61,7 +56,7 @@ a {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('/img/Elsweyropacity85.PNG');
+    background-image: url('/image/about.png');
     background-size: cover;
 }
 
@@ -87,7 +82,7 @@ p {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('/img/achivmetn80.PNG');
+    background-image: url('/image/achivment.png');
     background-size: cover;
 }
 
