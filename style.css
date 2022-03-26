@@ -1,0 +1,139 @@
+/*Made by AG*/
+
+
+/*
+1.Проверить картинки 
+2.Блок навигации
+3.Блок Инфо
+4.Блок истории
+5.Блок достижений
+6.Блок контакты
+7.Иконки контактов
+8.Чистка дубликатов
+9.Добавление интерактива
+10.Добавление ссылок
+11.Адаптивность на 1440/650/телефон
+12.Проверка текста на орфографию
+13.Добавление Стронг и ЕМ в текс
+14.Залить в Гит
+15.Текст более четкий*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Mulish&display=swap');
+body {
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 550;
+    margin: auto;
+    max-width: 1440px;
+    background-image: url('/img/bgpattern.svg');
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar ul li {
+    margin-right: 25px;
+    padding: 20px;
+}
+
+.navbar ul li:hover {
+    background: #eee;
+}
+
+.info {
+    margin-bottom: 10px;
+}
+
+.info img {
+    width: 100%;
+}
+
+.info-text {
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.aboutme {
+    margin-bottom: 10px;
+    padding: 20px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-image: url('/img/Elsweyropacity85.png');
+    background-size: cover;
+}
+
+.aboutme::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(255, 255, 250, 0.25);
+}
+
+.aboutme h2,
+p {
+    position: relative;
+    color: #000;
+}
+
+.achivment {
+    margin-bottom: 10px;
+    padding: 20px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-image: url('/img/achivmetn80.png');
+    background-size: cover;
+}
+
+.achivment::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(255, 255, 250, 0.3);
+}
+
+.achivment h2,
+p {
+    position: relative;
+}
+
+.achivment h3 {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+}
+
+.achivment ul,
+li {
+    position: relative;
+    font-size: 18px;
+    font-style: none;
+}
+
+.form-row {
+    display: flex;
+}
+
+.achivmentbox {
+    border: 2px solid #000;
+    box-sizing: border-box;
+    width: 48%;
+    margin: auto;
+}
+
+.contact {
+    background-color: #eee;
+    padding: 20px;
+}
