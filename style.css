@@ -155,10 +155,39 @@ li {
 
 @media (max-width:471px) {
     .contact img {
-        width: 80px;
-        margin: 5px 10px;
+        width: 70px;
+        margin: 5px 5px;
     }
     a {
         font-size: 18px;
+        margin-right: 5px;
+        padding: 10px;
+    }
+    p {
+        font-size: 18px;
+    }
+    .navbar ul li {
+        font-size: 16px;
+        margin-right: 5px;
+        padding: 5px;
+    }
+}
+
+@media (max-width:385px) {
+    .contact img {
+        width: 60px;
+        margin: 5px 5px;
+    }
+    a {
+        font-size: 16px;
+        margin-right: 5px;
+        padding: 10px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .navbar ul li {
+        margin-right: 10px;
+        padding: 10px 0;
     }
 }
