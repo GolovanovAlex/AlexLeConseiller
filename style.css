@@ -8,7 +8,7 @@ body {
     font-weight: 550;
     margin: auto;
     max-width: 1440px;
-    background-image: url('/image/bgpattern.svg');
+    background-image: url('image/bgpattern.svg');
 }
 
 .navbar ul {
@@ -56,7 +56,7 @@ a {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('/image/about.png');
+    background-image: url('image/about.png');
     background-size: cover;
 }
 
@@ -82,7 +82,7 @@ p {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('/image/achivment.png');
+    background-image: url('image/achivment.png');
     background-size: cover;
 }
 
