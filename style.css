@@ -56,7 +56,7 @@ a {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('image/about.png');
+    background-image: url('image/about.jpeg');
     background-size: cover;
 }
 
@@ -82,7 +82,7 @@ p {
     position: relative;
     align-items: center;
     justify-content: center;
-    background-image: url('image/achivment.png');
+    background-image: url('image/achivment.jpg');
     background-size: cover;
 }
 
