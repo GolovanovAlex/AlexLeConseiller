@@ -6,6 +6,7 @@
 ***
 [Ссылка на сайт](https://golovanovalex.github.io/AlexLeConseiller/)
 ***
+<br>
 **AlexLeConseiller** - is a simple website for training skills *HTML, CSS* and @media.
 ***
 
