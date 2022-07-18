@@ -8,7 +8,7 @@
 
 ---
 
-[Demo Link <br>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](href="https://golovanovalex.github.io/AlexLeConseiller)
+[Demo Link <br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](href="https://golovanovalex.github.io/AlexLeConseiller)
 
 ***
 <a href="https://golovanovalex.github.io/AlexLeConseiller/" target="_blank">Link</a>
